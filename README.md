@@ -13,15 +13,16 @@ Allways run the imports cell first and then the disired exercise.
 
 ## Ex_02
 ### Bandeira do Brasil
-https://www.publicdomainpictures.net/pictures/190000/velka/brazil-flag-14697167485tE.jpg
+[Flex Grid](https://www.publicdomainpictures.net/pictures/190000/velka/brazil-flag-14697167485tE.jpg)
 
 ### Carina Nebula
-https://www.webbcompare.com/
+[Flex Grid](https://www.webbcompare.com/)
 
 ## Ex_03
 ### Game sales data.
-https://www.kaggle.com/code/rafa84miranda/vendas-de-jogos-de-videogames/data?select=vgsales.csv
+[Flex Grid](https://www.kaggle.com/code/rafa84miranda/vendas-de-jogos-de-videogames/data?select=vgsales.csv)
+
 
 ## Ex_04
 ### IBGE data.
-https://www.kaggle.com/datasets/upadorprofzs/testes
+[Flex Grid](https://www.kaggle.com/datasets/upadorprofzs/testes)
