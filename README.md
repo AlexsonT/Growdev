@@ -1,4 +1,5 @@
 # Growdev
+## We'll use Pandas and Numpy library.
 ## Discipline: Programação para Data Science 01
 
 
