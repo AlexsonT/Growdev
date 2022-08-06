@@ -8,11 +8,11 @@ All these exercises can be opened using the Colaboratory plataform by cliking on
 
 Allways run the imports cell first and then the disired exercise.
 
-# Links to the images and databases to perform the exercises.
+## Links to the images and databases to perform the exercises.
 
-# Ex_02
-## Bandeira do Brasil
+## Ex_02
+### Bandeira do Brasil
 https://www.publicdomainpictures.net/pictures/190000/velka/brazil-flag-14697167485tE.jpg
 
-## Carina Nebula
+### Carina Nebula
 https://www.webbcompare.com/
