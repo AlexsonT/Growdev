@@ -17,3 +17,11 @@ https://www.publicdomainpictures.net/pictures/190000/velka/brazil-flag-146971674
 
 ### Carina Nebula
 https://www.webbcompare.com/
+
+## Ex_03
+### Game sales data.
+https://www.kaggle.com/code/rafa84miranda/vendas-de-jogos-de-videogames/data?select=vgsales.csv
+
+## Ex_04
+### IBGE data.
+https://www.kaggle.com/datasets/upadorprofzs/testes
