@@ -26,3 +26,10 @@ Allways run the imports cell first and then the disired exercise.
 ## Ex_04
 ### IBGE data.
 [Link](https://www.kaggle.com/datasets/upadorprofzs/testes)
+
+## Trabalho Final
+### Imagem com Ruído.
+[Link](https://drive.google.com/file/d/1Jrue6mVXNnx9nuk-VH2SQmF9CZUKqWV4/view)
+
+### Tabela Brasileirão.
+[Link](https://www.kaggle.com/code/adaoduque/tabela-do-brasileirao-temporada-2020-2021/data?select=campeonato-brasileiro-full.csv)
